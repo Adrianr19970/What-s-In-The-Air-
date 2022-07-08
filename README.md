@@ -45,7 +45,7 @@ What I found was that the Particulate Matter in the city has a weak correlation 
 
 Below are the technologies I used for this project/presentation.
 
-* SQL (SQLite)
+* SQL (SQLite/DBeaver)
 * Python (NumPy, Pandas, MatPlotLib, Seaborn)
 * Microsoft Excel
 * Tableau
