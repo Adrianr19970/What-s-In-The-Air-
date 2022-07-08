@@ -1,0 +1,379 @@
+Unique Id,indicator_id,geo_type_id,measurement_type_id,internal_id,subtopic_id,name,Measure,geo_type_name,description,geo_entity_id,geo_entity_name,year_description,year,data_value
+410829,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2016 Summer,2016,7.38
+547463,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2016-17 Winter,2016,7.87
+547461,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2017 Summer,2017,8.65
+605758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2017-18 Winter,2017,7.57
+605757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2018 Summer,2018,8
+649758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2018-19 Winter,2018,6.92
+649757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2019 Summer,2019,7.29
+669744,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2019-20 Winter,2019,7.65
+669743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2020 Summer,2020,6.73
+410763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2016 Summer,2016,8.28
+547397,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2016-17 Winter,2016,7.94
+547395,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2017 Summer,2017,9.14
+605692,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2017-18 Winter,2017,8.61
+605691,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2018 Summer,2018,8.48
+649692,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2018-19 Winter,2018,7.23
+649691,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2019 Summer,2019,8.11
+669810,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2019-20 Winter,2019,7.81
+669809,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2020 Summer,2020,6.98
+410781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2016 Summer,2016,7.94
+547415,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2016-17 Winter,2016,7.4
+547413,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2017 Summer,2017,8.52
+605710,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2017-18 Winter,2017,8.1
+605709,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2018 Summer,2018,7.83
+649710,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2018-19 Winter,2018,6.85
+649709,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2019 Summer,2019,7.79
+669792,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2019-20 Winter,2019,7.56
+669791,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2020 Summer,2020,6.69
+410772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2016 Summer,2016,8.08
+547406,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2016-17 Winter,2016,7.62
+547404,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2017 Summer,2017,8.8
+605701,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2017-18 Winter,2017,8.4
+605700,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2018 Summer,2018,8.17
+649701,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2018-19 Winter,2018,6.93
+649700,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2019 Summer,2019,7.91
+669801,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2019-20 Winter,2019,7.49
+669800,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2020 Summer,2020,6.74
+410778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2016 Summer,2016,7.77
+547412,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2016-17 Winter,2016,7.61
+547410,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2017 Summer,2017,8.54
+605707,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2017-18 Winter,2017,7.9
+605706,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2018 Summer,2018,8.05
+649707,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2018-19 Winter,2018,6.74
+649706,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2019 Summer,2019,7.71
+669795,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2019-20 Winter,2019,6.85
+669794,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2020 Summer,2020,6.6
+410793,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2016 Summer,2016,8.67
+547427,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2016-17 Winter,2016,8.28
+547425,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2017 Summer,2017,9.91
+605722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2017-18 Winter,2017,8.44
+605721,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2018 Summer,2018,8.9
+649722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2018-19 Winter,2018,7.59
+649721,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2019 Summer,2019,8.19
+669780,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2019-20 Winter,2019,7.56
+669779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2020 Summer,2020,7.36
+410805,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2016 Summer,2016,10.75
+547439,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2016-17 Winter,2016,10.05
+547437,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2017 Summer,2017,11.34
+605734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2017-18 Winter,2017,11.21
+605733,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2018 Summer,2018,11.25
+649734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2018-19 Winter,2018,11.75
+649733,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2019 Summer,2019,11.24
+669768,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2019-20 Winter,2019,11.38
+669767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Hell's Kitchen,2020 Summer,2020,8.7
+410784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2016 Summer,2016,7.66
+547418,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2016-17 Winter,2016,7.37
+547416,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2017 Summer,2017,8.22
+605713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2017-18 Winter,2017,7.81
+605712,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2018 Summer,2018,7.87
+649713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2018-19 Winter,2018,6.69
+649712,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2019 Summer,2019,7.64
+669789,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2019-20 Winter,2019,6.98
+669788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2020 Summer,2020,6.54
+410748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2016 Summer,2016,8.8
+547382,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2016-17 Winter,2016,8.63
+547380,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2017 Summer,2017,10.09
+605677,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2017-18 Winter,2017,8.52
+605676,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2018 Summer,2018,8.89
+649677,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2018-19 Winter,2018,7.89
+649676,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2019 Summer,2019,8.27
+669825,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2019-20 Winter,2019,7.37
+669824,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2020 Summer,2020,7.34
+410760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2016 Summer,2016,9.15
+547394,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2016-17 Winter,2016,8.52
+547392,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2017 Summer,2017,10.12
+605689,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2017-18 Winter,2017,9.38
+605688,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2018 Summer,2018,8.91
+649689,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2018-19 Winter,2018,8.15
+649688,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2019 Summer,2019,8.9
+669813,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2019-20 Winter,2019,8.55
+669812,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2020 Summer,2020,7.41
+410775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2016 Summer,2016,8.12
+547409,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2016-17 Winter,2016,7.76
+547407,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2017 Summer,2017,8.92
+605704,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2017-18 Winter,2017,8.39
+605703,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2018 Summer,2018,8.26
+649704,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2018-19 Winter,2018,6.91
+649703,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2019 Summer,2019,7.87
+669798,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2019-20 Winter,2019,7.47
+669797,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2020 Summer,2020,6.76
+410796,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2016 Summer,2016,8.9
+547430,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2016-17 Winter,2016,8.45
+547428,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2017 Summer,2017,10.05
+605725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2017-18 Winter,2017,8.36
+605724,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2018 Summer,2018,8.72
+649725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2018-19 Winter,2018,7.79
+649724,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2019 Summer,2019,8.27
+669777,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2019-20 Winter,2019,7.83
+669776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2020 Summer,2020,7.27
+410766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2016 Summer,2016,8.27
+547400,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2016-17 Winter,2016,8.11
+547398,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2017 Summer,2017,9.05
+605695,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2017-18 Winter,2017,8.23
+605694,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2018 Summer,2018,8.41
+649695,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2018-19 Winter,2018,7.15
+649694,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2019 Summer,2019,8.02
+669807,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2019-20 Winter,2019,7.4
+669806,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),204,East New York,2020 Summer,2020,6.89
+410826,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2016 Summer,2016,7.8
+547460,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2016-17 Winter,2016,8.01
+547458,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2017 Summer,2017,8.88
+605755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2017-18 Winter,2017,7.94
+605754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2018 Summer,2018,8.35
+649755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2018-19 Winter,2018,7.24
+649754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2019 Summer,2019,7.76
+669747,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2019-20 Winter,2019,7.83
+669746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2020 Summer,2020,7.05
+410742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2016 Summer,2016,8.05
+547376,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2016-17 Winter,2016,8.09
+547374,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2017 Summer,2017,9.39
+605671,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2017-18 Winter,2017,8.22
+605670,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2018 Summer,2018,8.55
+649671,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2018-19 Winter,2018,7.2
+649670,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2019 Summer,2019,7.77
+669831,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2019-20 Winter,2019,6.68
+669830,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2020 Summer,2020,7.22
+410835,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2016 Summer,2016,7.59
+547469,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2016-17 Winter,2016,7.81
+547467,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2017 Summer,2017,8.61
+605764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2017-18 Winter,2017,7.6
+605763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2018 Summer,2018,8.02
+649764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2018-19 Winter,2018,6.83
+649763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2019 Summer,2019,7.35
+669738,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2019-20 Winter,2019,7.63
+669737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2020 Summer,2020,6.68
+410808,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2016 Summer,2016,11.17
+547442,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2016-17 Winter,2016,10.47
+547440,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2017 Summer,2017,11.53
+605737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2017-18 Winter,2017,11.5
+605736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2018 Summer,2018,11.64
+649737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2018-19 Winter,2018,11.66
+649736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2019 Summer,2019,11.11
+669765,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2019-20 Winter,2019,11
+669764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2020 Summer,2020,8.4
+410757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2016 Summer,2016,9.8
+547391,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2016-17 Winter,2016,9.3
+547389,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2017 Summer,2017,10.79
+605686,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2017-18 Winter,2017,10.07
+605685,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2018 Summer,2018,9.85
+649686,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2018-19 Winter,2018,9.24
+649685,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2019 Summer,2019,9.93
+669816,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2019-20 Winter,2019,8.59
+669815,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2020 Summer,2020,7.95
+410811,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2016 Summer,2016,9.84
+547445,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2016-17 Winter,2016,9.12
+547443,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2017 Summer,2017,10.66
+605740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2017-18 Winter,2017,10.23
+605739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2018 Summer,2018,9.91
+649740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2018-19 Winter,2018,11.04
+649739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2019 Summer,2019,10.79
+669762,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2019-20 Winter,2019,11.04
+669761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2020 Summer,2020,8.45
+410751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2016 Summer,2016,8.85
+547385,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2016-17 Winter,2016,8.59
+547383,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2017 Summer,2017,10.13
+605680,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2017-18 Winter,2017,8.59
+605679,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2018 Summer,2018,9.06
+649680,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2018-19 Winter,2018,7.75
+649679,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2019 Summer,2019,8.27
+669822,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2019-20 Winter,2019,7.11
+669821,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2020 Summer,2020,7.24
+410754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2016 Summer,2016,8.97
+547388,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2016-17 Winter,2016,8.78
+547386,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2017 Summer,2017,10.2
+605683,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2017-18 Winter,2017,8.78
+605682,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2018 Summer,2018,9.23
+649683,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2018-19 Winter,2018,8.03
+649682,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2019 Summer,2019,8.71
+669819,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2019-20 Winter,2019,7.34
+669818,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2020 Summer,2020,7.52
+410841,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2016 Summer,2016,7.57
+547475,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2016-17 Winter,2016,7.93
+547473,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2017 Summer,2017,8.62
+605770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2017-18 Winter,2017,7.71
+605769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2018 Summer,2018,8.25
+649770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2018-19 Winter,2018,6.93
+649769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2019 Summer,2019,7.48
+669732,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2019-20 Winter,2019,7.45
+669731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2020 Summer,2020,6.73
+410736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2016 Summer,2016,7.95
+547370,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2016-17 Winter,2016,7.91
+547368,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2017 Summer,2017,9.46
+605665,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2017-18 Winter,2017,8
+605664,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2018 Summer,2018,8.25
+649665,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2018-19 Winter,2018,7.18
+649664,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2019 Summer,2019,7.78
+669837,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2019-20 Winter,2019,6.37
+669836,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2020 Summer,2020,7.22
+410820,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2016 Summer,2016,9.23
+547454,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2016-17 Winter,2016,8.85
+547452,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2017 Summer,2017,10.23
+605749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2017-18 Winter,2017,9.27
+605748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2018 Summer,2018,9.43
+649749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2018-19 Winter,2018,8.62
+649748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2019 Summer,2019,9.28
+669753,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2019-20 Winter,2019,8.31
+669752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2020 Summer,2020,7.76
+410817,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2016 Summer,2016,9.8
+547451,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2016-17 Winter,2016,9.08
+547449,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2017 Summer,2017,10.48
+605746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2017-18 Winter,2017,10.41
+605745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2018 Summer,2018,10.07
+649746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2018-19 Winter,2018,9.29
+649745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2019 Summer,2019,9.52
+669756,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2019-20 Winter,2019,9.88
+669755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2020 Summer,2020,7.83
+410739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2016 Summer,2016,7.93
+547373,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2016-17 Winter,2016,8.14
+547371,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2017 Summer,2017,9.25
+605668,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2017-18 Winter,2017,8.13
+605667,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2018 Summer,2018,8.33
+649668,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2018-19 Winter,2018,7.19
+649667,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2019 Summer,2019,7.7
+669834,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2019-20 Winter,2019,6.66
+669833,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2020 Summer,2020,7.17
+410745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2016 Summer,2016,8.06
+547379,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2016-17 Winter,2016,8.18
+547377,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2017 Summer,2017,9.29
+605674,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2017-18 Winter,2017,8.06
+605673,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2018 Summer,2018,8.39
+649674,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2018-19 Winter,2018,7.31
+649673,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2019 Summer,2019,7.81
+669828,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2019-20 Winter,2019,7.28
+669827,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2020 Summer,2020,7.14
+410850,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2016 Summer,2016,8.22
+547484,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2016-17 Winter,2016,7.36
+547482,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2017 Summer,2017,8.61
+605779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2017-18 Winter,2017,8.19
+605778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2018 Summer,2018,7.84
+649779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2018-19 Winter,2018,6.86
+649778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2019 Summer,2019,7.79
+669723,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2019-20 Winter,2019,7.44
+669722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2020 Summer,2020,6.88
+410832,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2016 Summer,2016,8.05
+547466,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2016-17 Winter,2016,7.93
+547464,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2017 Summer,2017,8.85
+605761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2017-18 Winter,2017,8.11
+605760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2018 Summer,2018,8.33
+649761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2018-19 Winter,2018,7.17
+649760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2019 Summer,2019,7.91
+669741,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2019-20 Winter,2019,7.7
+669740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2020 Summer,2020,6.91
+410847,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2016 Summer,2016,6.87
+547481,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2016-17 Winter,2016,7.3
+547479,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2017 Summer,2017,7.74
+605776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2017-18 Winter,2017,7
+605775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2018 Summer,2018,7.76
+649776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2018-19 Winter,2018,6.28
+649775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2019 Summer,2019,7.02
+669726,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2019-20 Winter,2019,6.12
+669725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2020 Summer,2020,6.27
+410859,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2016 Summer,2016,7.54
+547493,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2016-17 Winter,2016,6.87
+547491,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2017 Summer,2017,7.88
+605788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2017-18 Winter,2017,7.57
+605787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2018 Summer,2018,7.35
+649788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2018-19 Winter,2018,6.43
+649787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2019 Summer,2019,7.25
+669714,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2019-20 Winter,2019,6.05
+669713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2020 Summer,2020,6.51
+410844,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2016 Summer,2016,7.06
+547478,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2016-17 Winter,2016,7.7
+547476,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2017 Summer,2017,8.35
+605773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2017-18 Winter,2017,7.46
+605772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2018 Summer,2018,8.05
+649773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2018-19 Winter,2018,6.73
+649772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2019 Summer,2019,7.18
+669729,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2019-20 Winter,2019,7.16
+669728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2020 Summer,2020,6.57
+410838,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2016 Summer,2016,7.59
+547472,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2016-17 Winter,2016,7.69
+547470,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2017 Summer,2017,8.43
+605767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2017-18 Winter,2017,7.62
+605766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2018 Summer,2018,8.02
+649767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2018-19 Winter,2018,6.86
+649766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2019 Summer,2019,7.54
+669735,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2019-20 Winter,2019,7.4
+669734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2020 Summer,2020,6.69
+410853,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2016 Summer,2016,7.79
+547487,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2016-17 Winter,2016,7.08
+547485,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2017 Summer,2017,8.15
+605782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2017-18 Winter,2017,7.81
+605781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2018 Summer,2018,7.46
+649782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2018-19 Winter,2018,6.44
+649781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2019 Summer,2019,7.43
+669720,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2019-20 Winter,2019,7.24
+669719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2020 Summer,2020,6.56
+410769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2016 Summer,2016,8.93
+547403,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2016-17 Winter,2016,8.3
+547401,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2017 Summer,2017,9.75
+605698,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2017-18 Winter,2017,9.25
+605697,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2018 Summer,2018,8.78
+649698,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2018-19 Winter,2018,7.97
+649697,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2019 Summer,2019,8.86
+669804,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2019-20 Winter,2019,8.17
+669803,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2020 Summer,2020,7.27
+410814,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2016 Summer,2016,9.32
+547448,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2016-17 Winter,2016,8.68
+547446,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2017 Summer,2017,10.19
+605743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2017-18 Winter,2017,9.55
+605742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2018 Summer,2018,9.28
+649743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2018-19 Winter,2018,10.08
+649742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2019 Summer,2019,10.09
+669759,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2019-20 Winter,2019,10.31
+669758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2020 Summer,2020,8.1
+410802,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2016 Summer,2016,9.66
+547436,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2016-17 Winter,2016,9.13
+547434,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2017 Summer,2017,10.4
+605731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2017-18 Winter,2017,9.75
+605730,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2018 Summer,2018,10.03
+649731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2018-19 Winter,2018,8.96
+649730,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2019 Summer,2019,9.14
+669771,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2019-20 Winter,2019,8.57
+669770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2020 Summer,2020,7.44
+410799,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2016 Summer,2016,9.12
+547433,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2016-17 Winter,2016,8.59
+547431,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2017 Summer,2017,10.13
+605728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2017-18 Winter,2017,9.21
+605727,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2018 Summer,2018,9.48
+649728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2018-19 Winter,2018,8.16
+649727,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2019 Summer,2019,8.55
+669774,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2019-20 Winter,2019,7.87
+669773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2020 Summer,2020,7.24
+410790,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2016 Summer,2016,8.45
+547424,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2016-17 Winter,2016,8.17
+547422,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2017 Summer,2017,9.87
+605719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2017-18 Winter,2017,8.29
+605718,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2018 Summer,2018,8.65
+649719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2018-19 Winter,2018,7.76
+649718,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2019 Summer,2019,8.17
+669783,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2019-20 Winter,2019,7.35
+669782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2020 Summer,2020,7.35
+410823,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2016 Summer,2016,8.71
+547457,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2016-17 Winter,2016,8.48
+547455,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2017 Summer,2017,9.58
+605752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2017-18 Winter,2017,8.67
+605751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2018 Summer,2018,8.89
+649752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2018-19 Winter,2018,8.01
+649751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2019 Summer,2019,8.61
+669750,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2019-20 Winter,2019,8.24
+669749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2020 Summer,2020,7.37
+410787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2016 Summer,2016,8.99
+547421,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2016-17 Winter,2016,8.62
+547419,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2017 Summer,2017,9.87
+605716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2017-18 Winter,2017,9.42
+605715,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2018 Summer,2018,9.31
+649716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2018-19 Winter,2018,8.1
+649715,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2019 Summer,2019,8.96
+669786,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2019-20 Winter,2019,8.29
+669785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2020 Summer,2020,7.55
+410856,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2016 Summer,2016,8.09
+547490,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2016-17 Winter,2016,7.28
+547488,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2017 Summer,2017,8.35
+605785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2017-18 Winter,2017,8.01
+605784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2018 Summer,2018,7.74
+649785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2018-19 Winter,2018,6.53
+649784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2019 Summer,2019,7.39
+669717,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2019-20 Winter,2019,6.95
+669716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2020 Summer,2020,6.6

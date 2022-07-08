@@ -1,0 +1,1060 @@
+Unique Id,indicator_id,geo_type_id,measurement_type_id,internal_id,subtopic_id,Measurement_FPM,Measurement_NO,Measurement_NO2,Black Carbon,Measure,geo_type_name,description,geo_entity_id,geo_entity_name,year_description,year,PM2.5,NO,NO2,Black_Carbon,car_Volume,volume,Asthema Rates
+410829,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2016 Summer,2016,7.38,6.57,12.73,0.77,18,66,13.1
+410763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2016 Summer,2016,8.28,9.84,15.36,0.88,348,61,16
+410781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2016 Summer,2016,7.94,6.96,13.27,0.75,35,6,47.8
+410772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2016 Summer,2016,8.08,7.77,14.25,0.76,27,2,298
+410778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2016 Summer,2016,7.77,6.99,9.96,0.69,65,0,4.1
+410793,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2016 Summer,2016,8.67,9.22,18.13,1.15,306,34,11
+410805,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2016 Summer,2016,10.75,17.84,24.97,1.63,7,90,36
+410784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2016 Summer,2016,7.66,6.16,10.44,0.66,229,65,5.7
+410748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2016 Summer,2016,8.8,8.81,16.73,1.12,8,0,1594
+410760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2016 Summer,2016,9.15,11.52,17.32,1.1,140,0,58
+410775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2016 Summer,2016,8.12,8.86,13.98,0.8,38,20,32.2
+410796,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2016 Summer,2016,8.9,9.93,17.82,1.17,193,149,1414
+410766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2016 Summer,2016,8.27,8.75,13.07,0.86,36,11,78
+410826,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2016 Summer,2016,7.8,6.89,14.08,0.81,19,10,21.8
+410742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2016 Summer,2016,8.05,8.25,14.79,0.92,19,1,78.4
+410835,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2016 Summer,2016,7.59,7.12,13.7,0.77,41,197,210
+410808,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2016 Summer,2016,11.17,17.23,26.92,1.61,38,1,26.3
+410757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2016 Summer,2016,9.8,11.08,16.59,1.27,145,172,18
+410811,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2016 Summer,2016,9.84,22.24,22.17,1.69,80,15,56
+410751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2016 Summer,2016,8.85,8.5,17.13,1.09,55,5,13
+410754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2016 Summer,2016,8.97,7.74,15.59,1.07,62,16,260
+410841,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2016 Summer,2016,7.57,6.76,13.11,0.76,277,29,54.3
+410736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2016 Summer,2016,7.95,7.44,12.99,0.84,21,61,58
+410820,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2016 Summer,2016,9.23,8.71,16.02,1.14,68,56,21.8
+410817,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2016 Summer,2016,9.8,13.85,22.76,1.15,116,93,40.5
+410739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2016 Summer,2016,7.93,7.93,14.6,0.87,52,268,231
+410745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2016 Summer,2016,8.06,7.89,14.25,0.9,240,53,187
+410850,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2016 Summer,2016,8.22,5.95,13.86,0.73,12,8,91
+410832,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2016 Summer,2016,8.05,8.53,13.62,0.82,18,6,205
+410847,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2016 Summer,2016,6.87,5.12,6.22,0.53,34,180,49.9
+410859,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2016 Summer,2016,7.54,4.09,6.73,0.6,113,21,46
+410844,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2016 Summer,2016,7.06,5.82,12.13,0.66,245,39,14.3
+410838,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2016 Summer,2016,7.59,7.5,12.77,0.72,152,14,260
+410853,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2016 Summer,2016,7.79,6.1,10.91,0.65,126,49,51
+410769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2016 Summer,2016,8.93,9.05,15.07,1,394,24,14.3
+410814,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2016 Summer,2016,9.32,16.92,20.44,1.43,36,57,20
+410802,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2016 Summer,2016,9.66,16.56,20.78,1.48,109,0,0
+410799,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2016 Summer,2016,9.12,13.24,19.1,1.27,248,0,15.3
+410790,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2016 Summer,2016,8.45,9.1,16.19,1.08,1,47,18.3
+410823,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2016 Summer,2016,8.71,8.51,15.6,0.99,15,0,37
+410787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2016 Summer,2016,8.99,10.04,15.94,1.05,185,87,3.8
+410856,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2016 Summer,2016,8.09,5.3,10.16,0.71,84,0,0
+547463,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2016-17 Winter,2016,7.87,20.74,23.82,0.65,14,45,61.1
+547397,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2016-17 Winter,2016,7.94,22.64,26.17,0.74,326,68,281
+547415,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2016-17 Winter,2016,7.4,18.74,23.78,0.64,7,147,228
+547406,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2016-17 Winter,2016,7.62,20.27,25.04,0.66,3,48,74.1
+547412,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2016-17 Winter,2016,7.61,20.08,22.76,0.61,163,6,28.9
+547427,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2016-17 Winter,2016,8.28,23.1,28.51,0.95,21,0,144
+547439,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2016-17 Winter,2016,10.05,32.22,32.93,1.06,38,0,23
+547418,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2016-17 Winter,2016,7.37,19.29,23.25,0.6,39,83,18.9
+547382,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2016-17 Winter,2016,8.63,23.26,27.7,0.98,122,76,64
+547394,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2016-17 Winter,2016,8.52,23.64,26.27,0.83,16,38,25.5
+547409,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2016-17 Winter,2016,7.76,22.15,25.18,0.67,265,23,19.5
+547430,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2016-17 Winter,2016,8.45,24.33,28.06,0.94,530,60,0
+547400,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2016-17 Winter,2016,8.11,21.82,24.86,0.73,607,12,41.5
+547460,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2016-17 Winter,2016,8.01,20.63,25.52,0.74,188,2,698
+547376,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2016-17 Winter,2016,8.09,21.76,26.33,0.91,376,13,4656
+547469,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2016-17 Winter,2016,7.81,20.8,24.91,0.66,26,24,35.9
+547442,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2016-17 Winter,2016,10.47,31.86,34.66,1,94,68,42.7
+547391,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2016-17 Winter,2016,9.3,23.59,26.74,1.03,98,79,145
+547445,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2016-17 Winter,2016,9.12,35.88,30.12,1.07,12,9,45.3
+547385,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2016-17 Winter,2016,8.59,22.82,27.97,1,458,49,240
+547388,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2016-17 Winter,2016,8.78,21.66,26.96,1.05,34,30,35
+547475,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2016-17 Winter,2016,7.93,20.81,24.81,0.7,52,0,24.4
+547370,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2016-17 Winter,2016,7.91,19.13,24.27,0.84,130,33,831
+547454,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2016-17 Winter,2016,8.85,21.01,26.93,1.01,19,1,25
+547451,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2016-17 Winter,2016,9.08,26.27,30.24,0.9,29,22,72
+547373,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2016-17 Winter,2016,8.14,20.82,26.39,0.9,112,89,22.5
+547379,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2016-17 Winter,2016,8.18,22.26,25.91,0.86,28,132,51.2
+547484,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2016-17 Winter,2016,7.36,13.84,21.5,0.68,73,11,108
+547466,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2016-17 Winter,2016,7.93,21.37,25.06,0.71,100,77,6.7
+547481,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2016-17 Winter,2016,7.3,19.25,21.06,0.47,25,14,22
+547493,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2016-17 Winter,2016,6.87,12.37,17.51,0.55,182,14,82
+547478,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2016-17 Winter,2016,7.7,19.93,24.02,0.63,6,70,24.5
+547472,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2016-17 Winter,2016,7.69,20.84,24.86,0.66,35,17,85
+547487,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2016-17 Winter,2016,7.08,15.63,19.92,0.59,48,78,18.8
+547403,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2016-17 Winter,2016,8.3,20.85,24.33,0.8,65,9,20.4
+547448,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2016-17 Winter,2016,8.68,29.53,28.98,0.94,212,30,43
+547436,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2016-17 Winter,2016,9.13,32.75,30.22,0.91,202,250,14.4
+547433,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2016-17 Winter,2016,8.59,27.76,28.64,0.91,22,210,119
+547424,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2016-17 Winter,2016,8.17,22.96,26.85,0.95,256,22,7.2
+547457,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2016-17 Winter,2016,8.48,21.45,26.77,0.9,28,132,15
+547421,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2016-17 Winter,2016,8.62,22.38,26.64,0.88,4,101,56
+547490,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2016-17 Winter,2016,7.28,13.33,18.77,0.61,3,67,29.4
+547461,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2017 Summer,2017,8.65,6.76,12.58,0.73,62,142,15
+547395,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2017 Summer,2017,9.14,8.48,15.17,0.88,60,249,8.6
+547413,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2017 Summer,2017,8.52,6.7,12.75,0.76,225,55,22.7
+547404,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2017 Summer,2017,8.8,7.23,13.77,0.78,10,61,44
+547410,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2017 Summer,2017,8.54,6.69,10.26,0.68,54,96,120
+547425,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2017 Summer,2017,9.91,8.81,18.89,1.17,7,2,27.6
+547437,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2017 Summer,2017,11.34,16.07,26.19,1.33,94,39,19.7
+547416,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2017 Summer,2017,8.22,6.32,10.7,0.68,111,363,135
+547380,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2017 Summer,2017,10.09,8.51,17.12,1.14,11,23,77.2
+547392,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2017 Summer,2017,10.12,10.03,16.62,0.99,39,52,323
+547407,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2017 Summer,2017,8.92,8.03,13.75,0.79,11,2,17
+547428,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2017 Summer,2017,10.05,9.56,18.57,1.13,116,38,11.9
+547398,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2017 Summer,2017,9.05,7.97,13.39,0.83,231,106,14
+547458,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2017 Summer,2017,8.88,6.63,13.95,0.84,118,15,17
+547374,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2017 Summer,2017,9.39,7.45,14.87,1.06,4,6,63.7
+547467,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2017 Summer,2017,8.61,6.9,13.83,0.75,13,5,386
+547440,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2017 Summer,2017,11.53,15.78,28.61,1.25,711,30,4.4
+547389,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2017 Summer,2017,10.79,9.5,16.36,1.2,403,156,12
+547443,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2017 Summer,2017,10.66,19.26,22.35,1.39,59,104,39
+547383,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2017 Summer,2017,10.13,8.26,17.68,1.17,40,90,6.2
+547386,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2017 Summer,2017,10.2,7.47,15.85,1.19,85,20,1542
+547473,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2017 Summer,2017,8.62,6.75,13.67,0.77,14,103,56.9
+547368,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2017 Summer,2017,9.46,6.61,13.02,0.98,16,67,33
+547452,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2017 Summer,2017,10.23,7.83,16.21,1.18,592,69,1424
+547449,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2017 Summer,2017,10.48,11.95,22.95,1.09,101,235,80
+547371,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2017 Summer,2017,9.25,7.17,14.37,1.01,2,78,22.7
+547377,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2017 Summer,2017,9.29,7.6,14.14,0.97,104,16,65.7
+547482,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2017 Summer,2017,8.61,5.03,13.28,0.83,83,31,173
+547464,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2017 Summer,2017,8.85,7.56,13.79,0.83,94,27,13
+547479,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2017 Summer,2017,7.74,5.77,7.81,0.49,35,92,0
+547491,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2017 Summer,2017,7.88,3.74,7.77,0.67,301,7,40
+547476,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2017 Summer,2017,8.35,6.13,12.59,0.68,77,22,9.4
+547470,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2017 Summer,2017,8.43,7.03,13.34,0.74,20,17,258
+547485,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2017 Summer,2017,8.15,5.58,10.3,0.71,27,29,55
+547401,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2017 Summer,2017,9.75,8.14,14.14,0.94,227,61,63
+547446,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2017 Summer,2017,10.19,14.74,20.58,1.21,6,101,24.1
+547434,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2017 Summer,2017,10.4,15.58,21.92,1.19,10,165,41.6
+547431,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2017 Summer,2017,10.13,12.35,19.98,1.18,134,84,230
+547422,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2017 Summer,2017,9.87,8.68,16.69,1.13,25,68,158
+547455,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2017 Summer,2017,9.58,7.7,15.77,1.03,153,292,78.2
+547419,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2017 Summer,2017,9.87,8.43,15.73,1.04,140,281,188
+547488,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2017 Summer,2017,8.35,4.63,10.16,0.75,520,82,46.4
+605758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2017-18 Winter,2017,7.57,15.8,21.85,0.65,5,39,66
+605692,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2017-18 Winter,2017,8.61,22.94,26.16,0.82,157,20,20.7
+605710,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2017-18 Winter,2017,8.1,16.4,22.67,0.66,21,209,241
+605701,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2017-18 Winter,2017,8.4,18.67,24.2,0.7,284,8,48.1
+605707,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2017-18 Winter,2017,7.9,16.45,20.54,0.64,164,107,17.2
+605722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2017-18 Winter,2017,8.44,20.89,27.52,0.88,4,26,24
+605734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2017-18 Winter,2017,11.21,32.46,31.91,1.26,47,58,11
+605713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2017-18 Winter,2017,7.81,14.49,19.73,0.6,78,757,20.7
+605677,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2017-18 Winter,2017,8.52,20.12,25.81,0.92,130,6,19.5
+605689,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2017-18 Winter,2017,9.38,24.96,27.19,0.9,202,86,38
+605704,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2017-18 Winter,2017,8.39,21.05,24.33,0.73,13,31,11.4
+605725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2017-18 Winter,2017,8.36,21.59,26.75,0.88,0,591,0
+605695,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2017-18 Winter,2017,8.23,19.71,24.54,0.78,16,227,57.6
+605755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2017-18 Winter,2017,7.94,17.03,24.42,0.73,106,80,261
+605671,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2017-18 Winter,2017,8.22,19.65,22.82,0.86,137,548,216
+605764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2017-18 Winter,2017,7.6,17.36,24.31,0.69,88,133,71.1
+605737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2017-18 Winter,2017,11.5,30.6,33.05,1.28,58,71,27.3
+605686,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2017-18 Winter,2017,10.07,24.03,28.11,1.08,76,41,134
+605740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2017-18 Winter,2017,10.23,37.54,29.62,1.12,149,135,27
+605680,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2017-18 Winter,2017,8.59,20.15,27.05,0.94,621,63,22.4
+605683,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2017-18 Winter,2017,8.78,18.44,26.75,0.99,100,18,50
+605770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2017-18 Winter,2017,7.71,16.47,23.83,0.7,106,27,20.5
+605665,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2017-18 Winter,2017,8,17.86,21.31,0.79,83,111,12.5
+605749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2017-18 Winter,2017,9.27,19.15,27.14,1.02,99,3,0
+605746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2017-18 Winter,2017,10.41,29.08,30.06,1.11,106,7,36.3
+605668,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2017-18 Winter,2017,8.13,17.39,21.29,0.84,28,1317,605
+605674,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2017-18 Winter,2017,8.06,18.13,22.91,0.8,70,18,4525
+605779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2017-18 Winter,2017,8.19,14.26,22.6,0.75,18,174,35.4
+605761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2017-18 Winter,2017,8.11,19.92,25.21,0.78,144,52,39.9
+605776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2017-18 Winter,2017,7,10.93,14.41,0.48,72,97,134
+605788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2017-18 Winter,2017,7.57,10.49,17.21,0.65,80,24,48.4
+605773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2017-18 Winter,2017,7.46,14.4,21.61,0.62,136,704,254
+605767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2017-18 Winter,2017,7.62,17.67,23.99,0.7,234,131,35
+605782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2017-18 Winter,2017,7.81,14.61,20.07,0.65,28,14,24.5
+605698,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2017-18 Winter,2017,9.25,20.95,25.76,0.83,288,11,823
+605743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2017-18 Winter,2017,9.55,30.24,28.12,1.01,2,182,25
+605731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2017-18 Winter,2017,9.75,30.47,28.57,0.96,157,73,67
+605728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2017-18 Winter,2017,9.21,26.46,27.31,0.91,70,622,21.2
+605719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2017-18 Winter,2017,8.29,21.66,25.64,0.87,189,90,49.4
+605752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2017-18 Winter,2017,8.67,19.48,26.84,0.92,44,2,104
+605716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2017-18 Winter,2017,9.42,23.13,27.7,0.97,93,202,8.1
+605785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2017-18 Winter,2017,8.01,12.73,19.5,0.7,86,7,26
+605757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2018 Summer,2018,8,6.3,11.72,0.75,675,84,83
+605691,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2018 Summer,2018,8.48,7.93,14.02,0.83,72,170,25.4
+605709,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2018 Summer,2018,7.83,5.81,11.47,0.66,95,144,99
+605700,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2018 Summer,2018,8.17,6.55,12.59,0.71,15,296,22.1
+605706,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2018 Summer,2018,8.05,6.07,9.05,0.6,21,10,24.4
+605721,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2018 Summer,2018,8.9,8.53,16.9,0.91,98,11,51
+605733,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2018 Summer,2018,11.25,14.5,24.85,1.47,56,124,16.1
+605712,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2018 Summer,2018,7.87,5.58,9.1,0.56,336,26,131
+605676,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2018 Summer,2018,8.89,7.7,15.18,0.95,132,133,10.7
+605688,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2018 Summer,2018,8.91,8.87,16.37,1,38,219,22
+605703,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2018 Summer,2018,8.26,7.35,12.34,0.72,63,247,58
+605724,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2018 Summer,2018,8.72,8.98,16.41,0.92,184,102,31
+605694,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2018 Summer,2018,8.41,6.85,11.97,0.75,580,376,12
+605754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2018 Summer,2018,8.35,6.41,12.95,0.79,14,39,6.7
+605670,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2018 Summer,2018,8.55,7.01,13.3,0.89,217,28,25
+605763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2018 Summer,2018,8.02,6.43,12.36,0.74,39,284,49
+605736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2018 Summer,2018,11.64,13.39,26.13,1.48,159,16,101
+605685,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2018 Summer,2018,9.85,9.23,17.47,1.15,598,0,24
+605739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2018 Summer,2018,9.91,17.47,21.53,1.32,146,158,18.9
+605679,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2018 Summer,2018,9.06,7.8,15.85,0.96,230,10,129
+605682,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2018 Summer,2018,9.23,7.19,15.21,1.01,86,88,61.9
+605769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2018 Summer,2018,8.25,6.35,12.77,0.75,63,106,254
+605664,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2018 Summer,2018,8.25,6.2,11.69,0.81,0,236,17
+605748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2018 Summer,2018,9.43,7.76,16.35,1.06,248,18,12.1
+605745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2018 Summer,2018,10.07,10.63,21.79,1.32,50,0,11.5
+605667,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2018 Summer,2018,8.33,6.34,13.05,0.91,167,27,14
+605673,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2018 Summer,2018,8.39,6.96,12.84,0.85,126,15,49.4
+605778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2018 Summer,2018,7.84,4.17,12.34,0.72,397,8,291
+605760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2018 Summer,2018,8.33,7.04,12.54,0.78,2,9,5.1
+605775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2018 Summer,2018,7.76,5.26,6.73,0.45,522,5,14
+605787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2018 Summer,2018,7.35,3,6.28,0.55,102,130,34
+605772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2018 Summer,2018,8.05,6.05,12.22,0.71,174,567,5.3
+605766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2018 Summer,2018,8.02,6.43,11.83,0.69,24,564,1476
+605781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2018 Summer,2018,7.46,4.67,9.31,0.64,55,24,55
+605697,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2018 Summer,2018,8.78,7.35,14.4,0.89,13,135,28.1
+605742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2018 Summer,2018,9.28,13.05,19.38,1.16,121,143,1200
+605730,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2018 Summer,2018,10.03,14.26,19.87,1.05,268,91,57
+605727,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2018 Summer,2018,9.48,11.98,18.4,1,7,200,16.4
+605718,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2018 Summer,2018,8.65,8.98,14.97,0.9,23,28,68
+605751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2018 Summer,2018,8.89,7.31,14.92,0.94,40,11,175
+605715,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2018 Summer,2018,9.31,8.15,15.84,1,34,19,31.8
+605784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2018 Summer,2018,7.74,3.69,9.09,0.63,40,26,22
+649758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2018-19 Winter,2018,6.92,16.32,18.18,,258,121,58
+649692,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2018-19 Winter,2018,7.23,18.97,23.23,,17,44,13.7
+649710,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2018-19 Winter,2018,6.85,14.21,20.53,,69,36,231
+649701,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2018-19 Winter,2018,6.93,15.31,21.76,,28,47,50
+649707,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2018-19 Winter,2018,6.74,15.93,18.66,,38,2,53
+649722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2018-19 Winter,2018,7.59,20.43,24.69,,315,16,20.6
+649734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2018-19 Winter,2018,11.75,24.17,29.47,,294,31,32.8
+649713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2018-19 Winter,2018,6.69,13.81,18.52,,24,0,176
+649677,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2018-19 Winter,2018,7.89,19.69,22.62,,75,0,169
+649689,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2018-19 Winter,2018,8.15,21.91,24.83,,69,35,85.9
+649704,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2018-19 Winter,2018,6.91,16.31,21.71,,126,8,174
+649725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2018-19 Winter,2018,7.79,20.55,24.44,,82,7,43.4
+649695,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2018-19 Winter,2018,7.15,18.69,21.57,,188,3,46
+649755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2018-19 Winter,2018,7.24,18.41,21.25,,128,0,14.5
+649671,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2018-19 Winter,2018,7.2,17.32,19.92,,35,41,272
+649764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2018-19 Winter,2018,6.83,16.67,20.31,,25,37,54.9
+649737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2018-19 Winter,2018,11.66,23.24,29.66,,22,25,16.5
+649686,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2018-19 Winter,2018,9.24,31.52,26.69,,46,35,23
+649740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2018-19 Winter,2018,11.04,22.83,27.47,,402,13,10
+649680,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2018-19 Winter,2018,7.75,20.29,23.89,,169,20,18.6
+649683,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2018-19 Winter,2018,8.03,24.65,24.22,,78,129,20.7
+649770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2018-19 Winter,2018,6.93,17.15,19.86,,406,52,39
+649665,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2018-19 Winter,2018,7.18,15.97,18.32,,72,5,3.8
+649749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2018-19 Winter,2018,8.62,25.72,25.7,,86,1,0
+649746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2018-19 Winter,2018,9.29,21.68,27.74,,557,158,51.2
+649668,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2018-19 Winter,2018,7.19,16.3,19.11,,56,161,230
+649674,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2018-19 Winter,2018,7.31,17.48,20.36,,216,72,223
+649779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2018-19 Winter,2018,6.86,13.35,20.12,,94,5,74
+649761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2018-19 Winter,2018,7.17,18.35,22.03,,12,81,25.4
+649776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2018-19 Winter,2018,6.28,13.13,13.95,,17,126,123
+649788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2018-19 Winter,2018,6.43,10.62,14.25,,9,23,26
+649773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2018-19 Winter,2018,6.73,16.03,17.99,,84,14,21.7
+649767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2018-19 Winter,2018,6.86,16.34,20.41,,18,23,60
+649782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2018-19 Winter,2018,6.44,12.73,17.83,,95,10,25.1
+649698,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2018-19 Winter,2018,7.97,21.17,23.31,,56,11,3
+649743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2018-19 Winter,2018,10.08,21.45,25.9,,30,6,0
+649731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2018-19 Winter,2018,8.96,23.4,26.49,,169,0,36.5
+649728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2018-19 Winter,2018,8.16,21.25,25.25,,12,30,598
+649719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2018-19 Winter,2018,7.76,19.53,22.24,,45,88,4194
+649752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2018-19 Winter,2018,8.01,23.32,24.36,,29,72,33.1
+649716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2018-19 Winter,2018,8.1,26.3,25.25,,27,99,39.6
+649785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2018-19 Winter,2018,6.53,11.38,16.55,,145,51,132
+649757,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2019 Summer,2019,7.29,8.24,12.49,,90,71,42.5
+649691,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2019 Summer,2019,8.11,6.01,14.34,,204,169,222
+649709,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2019 Summer,2019,7.79,5.87,13,,556,81,33
+649700,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2019 Summer,2019,7.91,5.7,13.58,,366,113,23
+649706,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2019 Summer,2019,7.71,4.8,9.24,,190,105,814
+649721,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2019 Summer,2019,8.19,6.96,16.78,,26,201,25
+649733,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2019 Summer,2019,11.24,10.57,24.86,,15,114,86
+649712,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2019 Summer,2019,7.64,4.87,9.97,,24,144,27.4
+649676,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2019 Summer,2019,8.27,7.56,14.38,,152,0,47.6
+649688,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2019 Summer,2019,8.9,8.99,17.99,,87,123,100
+649703,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2019 Summer,2019,7.87,5.36,12.75,,215,60,4.1
+649724,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2019 Summer,2019,8.27,7.26,16.73,,38,6,13
+649694,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2019 Summer,2019,8.02,5.36,11.97,,39,553,82
+649754,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2019 Summer,2019,7.76,6.88,13.61,,69,455,25.6
+649670,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2019 Summer,2019,7.77,6.18,12.17,,78,297,92
+649763,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2019 Summer,2019,7.35,6.49,12.64,,57,415,20.7
+649736,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2019 Summer,2019,11.11,9.8,24.78,,48,181,19.2
+649685,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2019 Summer,2019,9.93,10.39,19.22,,15,10,40
+649739,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2019 Summer,2019,10.79,10.33,22.64,,37,16,13.1
+649679,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2019 Summer,2019,8.27,7.24,15.43,,73,198,106
+649682,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2019 Summer,2019,8.71,8.06,15.52,,40,74,12.7
+649769,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2019 Summer,2019,7.48,7.15,13.05,,1,85,26
+649664,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2019 Summer,2019,7.78,5.58,10.39,,422,189,59
+649748,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2019 Summer,2019,9.28,8.01,17.72,,4,31,32.3
+649745,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2019 Summer,2019,9.52,10.05,23.09,,12,119,14
+649667,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2019 Summer,2019,7.7,6.29,12.28,,136,449,7.7
+649673,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2019 Summer,2019,7.81,6.68,12.8,,70,10,20.3
+649778,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2019 Summer,2019,7.79,4.99,14.27,,180,31,40
+649760,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2019 Summer,2019,7.91,5.35,12.77,,14,202,83
+649775,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2019 Summer,2019,7.02,5.04,7.33,,182,9,20.5
+649787,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2019 Summer,2019,7.25,3.51,7.82,,92,120,16.9
+649772,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2019 Summer,2019,7.18,8.35,12.99,,53,228,115
+649766,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2019 Summer,2019,7.54,5.32,11.69,,46,74,57.7
+649781,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2019 Summer,2019,7.43,5.26,11.42,,216,80,233
+649697,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2019 Summer,2019,8.86,9.39,16.21,,6,8,15
+649742,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2019 Summer,2019,10.09,8.91,20.28,,26,228,10.8
+649730,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2019 Summer,2019,9.14,9.02,20.08,,189,355,8.1
+649727,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2019 Summer,2019,8.55,8.23,18.84,,105,22,10
+649718,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2019 Summer,2019,8.17,8.26,14.03,,122,445,50
+649751,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2019 Summer,2019,8.61,7.09,15.58,,53,34,287
+649715,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2019 Summer,2019,8.96,7.98,16.66,,71,168,5.3
+649784,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2019 Summer,2019,7.39,4.06,10.36,,120,21,15
+669744,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2019-20 Winter,2019,7.65,18.36,19.92,0.53,72,80,31
+669810,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2019-20 Winter,2019,7.81,23.82,27.58,0.58,303,118,4.8
+669792,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2019-20 Winter,2019,7.56,17.61,23.75,0.53,138,26,1455
+669801,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2019-20 Winter,2019,7.49,18.86,25.64,0.53,36,12,54.5
+669795,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2019-20 Winter,2019,6.85,19.47,22.86,0.49,71,140,26.8
+669780,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2019-20 Winter,2019,7.56,22,26.6,0.7,19,119,1137
+669768,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2019-20 Winter,2019,11.38,29.25,33.6,0.88,23,288,57
+669789,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2019-20 Winter,2019,6.98,16.47,22.1,0.47,69,93,16.5
+669825,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2019-20 Winter,2019,7.37,20.45,24.76,0.68,32,39,55.3
+669813,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2019-20 Winter,2019,8.55,28.76,28.64,0.68,235,43,140
+669798,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2019-20 Winter,2019,7.47,20.05,26.13,0.54,47,67,20.1
+669777,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2019-20 Winter,2019,7.83,22.38,26.76,0.68,26,454,14
+669807,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2019-20 Winter,2019,7.4,23.27,25.5,0.56,35,304,41
+669747,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2019-20 Winter,2019,7.83,20.84,22.92,0.59,116,0,9.6
+669831,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2019-20 Winter,2019,6.68,17.42,22.59,0.64,7,14,260
+669738,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2019-20 Winter,2019,7.63,19.27,22.53,0.54,86,13,57
+669765,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2019-20 Winter,2019,11,27.79,34.16,0.82,2,155,55
+669816,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2019-20 Winter,2019,8.59,42.31,29.27,0.78,11,175,21.6
+669762,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2019-20 Winter,2019,11.04,28.91,31.63,0.84,172,25,28.2
+669822,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2019-20 Winter,2019,7.11,21.47,25.81,0.68,36,227,147
+669819,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2019-20 Winter,2019,7.34,27.86,25.29,0.72,12,202,151
+669732,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2019-20 Winter,2019,7.45,20.68,22.29,0.52,19,152,78.4
+669837,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2019-20 Winter,2019,6.37,15.64,21.27,0.65,1,43,186
+669753,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2019-20 Winter,2019,8.31,31.53,27.62,0.75,215,321,46.8
+669756,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2019-20 Winter,2019,9.88,27.98,32.12,0.75,271,202,45
+669834,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2019-20 Winter,2019,6.66,16.16,21.91,0.62,128,57,14.2
+669828,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2019-20 Winter,2019,7.28,18.22,22.22,0.62,19,88,300
+669723,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2019-20 Winter,2019,7.44,18.29,21.89,0.62,210,58,61
+669741,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2019-20 Winter,2019,7.7,22.22,25.26,0.58,44,3,9.9
+669726,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2019-20 Winter,2019,6.12,15.64,17.57,0.4,118,25,14
+669714,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2019-20 Winter,2019,6.05,13.5,15.41,0.49,64,74,11
+669729,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2019-20 Winter,2019,7.16,18.88,20.09,0.49,10,85,20.1
+669735,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2019-20 Winter,2019,7.4,19.72,23.92,0.52,28,74,9.8
+669720,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2019-20 Winter,2019,7.24,16.53,20.53,0.54,175,0,18
+669804,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2019-20 Winter,2019,8.17,28.41,26.36,0.64,21,28,1.9
+669759,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2019-20 Winter,2019,10.31,26.75,30.06,0.77,12,0,0
+669771,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2019-20 Winter,2019,8.57,26.85,29.8,0.7,15,10,53.7
+669774,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2019-20 Winter,2019,7.87,23.69,28.11,0.69,128,51,240
+669783,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2019-20 Winter,2019,7.35,20.82,24.62,0.7,125,74,204
+669750,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2019-20 Winter,2019,8.24,29.06,26.72,0.67,24,217,68.1
+669786,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2019-20 Winter,2019,8.29,35.06,28.7,0.69,53,29,30
+669717,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2019-20 Winter,2019,6.95,15.1,18.46,0.55,209,53,145
+669743,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),404,Bayside - Little Neck,2020 Summer,2020,6.73,4.89,8.71,0.47,216,45,30
+669809,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2020 Summer,2020,6.98,5.6,11.59,0.49,30,2,25
+669791,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2020 Summer,2020,6.69,4.36,9.8,0.44,281,27,49
+669800,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),206,Borough Park,2020 Summer,2020,6.74,4.61,10.74,0.44,10,13,20.8
+669794,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),208,Canarsie - Flatlands,2020 Summer,2020,6.6,5.02,8.63,0.4,4,126,5.8
+669779,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,2020 Summer,2020,7.36,5.94,14.6,0.55,433,164,0
+669767,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),306,Chelsea - Clinton,2020 Summer,2020,8.7,7.15,19.29,0.63,70,47,31.6
+669788,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2020 Summer,2020,6.54,4.42,8.92,0.37,59,18,512
+669824,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),105,Crotona -Tremont,2020 Summer,2020,7.34,5.99,14.53,0.59,32,37,3922
+669812,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),202,Downtown - Heights - Slope,2020 Summer,2020,7.41,6.61,12.96,0.57,84,19,31.1
+669797,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),207,East Flatbush - Flatbush,2020 Summer,2020,6.76,4.89,10.66,0.45,137,106,43.5
+669776,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),303,East Harlem,2020 Summer,2020,7.27,6.02,14.24,0.54,101,123,145
+669806,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),204,East New York,2020 Summer,2020,6.89,5.71,10.42,0.47,54,305,46.5
+669746,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),403,Flushing - Clearview,2020 Summer,2020,7.05,5.43,11.03,0.52,111,24,243
+669830,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),103,Fordham - Bronx Pk,2020 Summer,2020,7.22,5.13,13.15,0.57,57,33,19
+669737,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),406,Fresh Meadows,2020 Summer,2020,6.68,4.89,9.49,0.47,118,85,13.1
+669764,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,2020 Summer,2020,8.4,6.88,19.72,0.6,98,32,730
+669815,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),201,Greenpoint,2020 Summer,2020,7.95,10.25,14.72,0.66,217,17,22.3
+669761,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),308,Greenwich Village - SoHo,2020 Summer,2020,8.45,6.7,16.22,0.63,108,244,65
+669821,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),106,High Bridge - Morrisania,2020 Summer,2020,7.24,6.03,14.75,0.57,14,24,20.6
+669818,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),107,Hunts Point - Mott Haven,2020 Summer,2020,7.52,7.63,14.29,0.62,17,138,41
+669731,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),408,Jamaica,2020 Summer,2020,6.73,5.29,9.35,0.44,74,79,87
+669836,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),101,Kingsbridge - Riverdale,2020 Summer,2020,7.22,4.78,12.22,0.57,18,12,6.3
+669752,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),401,Long Island City - Astoria,2020 Summer,2020,7.76,8.07,14.24,0.61,87,87,20
+669755,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),310,Lower Manhattan,2020 Summer,2020,7.83,6.33,16.58,0.6,298,35,68
+669833,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),102,Northeast Bronx,2020 Summer,2020,7.17,4.94,13,0.58,40,81,21.4
+669827,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),104,Pelham - Throgs Neck,2020 Summer,2020,7.14,5.26,12.14,0.56,116,29,100
+669722,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),501,Port Richmond,2020 Summer,2020,6.88,4.23,9.8,0.51,7,276,22.4
+669740,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),405,Ridgewood - Forest Hills,2020 Summer,2020,6.91,5.42,10.49,0.49,33,8,15.8
+669725,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),410,Rockaways,2020 Summer,2020,6.27,4.55,5.96,0.31,188,45,33
+669713,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),504,South Beach - Tottenville,2020 Summer,2020,6.51,3.65,7.29,0.4,35,19,10.9
+669728,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),409,Southeast Queens,2020 Summer,2020,6.57,5.02,8.37,0.42,79,23,88
+669734,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),407,Southwest Queens,2020 Summer,2020,6.69,4.95,9.47,0.43,5,41,14.2
+669719,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),502,Stapleton - St. George,2020 Summer,2020,6.56,3.94,8.02,0.45,178,0,29
+669803,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),205,Sunset Park,2020 Summer,2020,7.27,6.65,11.77,0.55,53,6,49
+669758,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),309,Union Square - Lower East Side,2020 Summer,2020,8.1,6.22,14.45,0.59,49,82,27.4
+669770,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),305,Upper East Side,2020 Summer,2020,7.44,6.84,16.33,0.54,20,104,13
+669773,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),304,Upper West Side,2020 Summer,2020,7.24,6.18,15.07,0.54,124,35,7
+669782,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),301,Washington Heights,2020 Summer,2020,7.35,6.01,14.03,0.59,288,9,16.1
+669749,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),402,West Queens,2020 Summer,2020,7.37,7.31,12.85,0.57,24,104,32
+669785,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),211,Williamsburg - Bushwick,2020 Summer,2020,7.55,8.2,13.24,0.58,138,51,82
+669716,365,3,104,2023,122,Fine Particulate Matter (PM2.5),Nitric Oxide (NO),Nitrogen Dioxide (NO2),Black Carbon,Mean,UHF42,Neighborhood (UHF 42),503,Willowbrook,2020 Summer,2020,6.6,3.69,7.84,0.46,201,3,21.1
+,,,,,,,,,,,,,,,,,,,,,,63,16.3
+,,,,,,,,,,,,,,,,,,,,,,33,112
+,,,,,,,,,,,,,,,,,,,,,,121,60.4
+,,,,,,,,,,,,,,,,,,,,,,321,241
+,,,,,,,,,,,,,,,,,,,,,,22,14
+,,,,,,,,,,,,,,,,,,,,,,0,10.2
+,,,,,,,,,,,,,,,,,,,,,,23,11.9
+,,,,,,,,,,,,,,,,,,,,,,40,15
+,,,,,,,,,,,,,,,,,,,,,,0,51.1
+,,,,,,,,,,,,,,,,,,,,,,133,288
+,,,,,,,,,,,,,,,,,,,,,,264,5.8
+,,,,,,,,,,,,,,,,,,,,,,77,17
+,,,,,,,,,,,,,,,,,,,,,,37,44
+,,,,,,,,,,,,,,,,,,,,,,50,6.6
+,,,,,,,,,,,,,,,,,,,,,,82,1552
+,,,,,,,,,,,,,,,,,,,,,,70,58.2
+,,,,,,,,,,,,,,,,,,,,,,50,29
+,,,,,,,,,,,,,,,,,,,,,,44,1231
+,,,,,,,,,,,,,,,,,,,,,,15,99
+,,,,,,,,,,,,,,,,,,,,,,0,28.7
+,,,,,,,,,,,,,,,,,,,,,,1,69.1
+,,,,,,,,,,,,,,,,,,,,,,76,171
+,,,,,,,,,,,,,,,,,,,,,,64,18.5
+,,,,,,,,,,,,,,,,,,,,,,23,13
+,,,,,,,,,,,,,,,,,,,,,,10,46
+,,,,,,,,,,,,,,,,,,,,,,63,10.7
+,,,,,,,,,,,,,,,,,,,,,,12,259
+,,,,,,,,,,,,,,,,,,,,,,32,57.3
+,,,,,,,,,,,,,,,,,,,,,,567,68
+,,,,,,,,,,,,,,,,,,,,,,151,26.6
+,,,,,,,,,,,,,,,,,,,,,,29,33.5
+,,,,,,,,,,,,,,,,,,,,,,605,171
+,,,,,,,,,,,,,,,,,,,,,,13,126
+,,,,,,,,,,,,,,,,,,,,,,15,67.6
+,,,,,,,,,,,,,,,,,,,,,,209,172
+,,,,,,,,,,,,,,,,,,,,,,158,43.3
+,,,,,,,,,,,,,,,,,,,,,,34,43
+,,,,,,,,,,,,,,,,,,,,,,32,13.4
+,,,,,,,,,,,,,,,,,,,,,,22,344
+,,,,,,,,,,,,,,,,,,,,,,5,70.2
+,,,,,,,,,,,,,,,,,,,,,,3,13.3
+,,,,,,,,,,,,,,,,,,,,,,83,19
+,,,,,,,,,,,,,,,,,,,,,,4,0
+,,,,,,,,,,,,,,,,,,,,,,38,7.2
+,,,,,,,,,,,,,,,,,,,,,,6,17.1
+,,,,,,,,,,,,,,,,,,,,,,272,31
+,,,,,,,,,,,,,,,,,,,,,,82,13.1
+,,,,,,,,,,,,,,,,,,,,,,121,0
+,,,,,,,,,,,,,,,,,,,,,,175,60.2
+,,,,,,,,,,,,,,,,,,,,,,9,268
+,,,,,,,,,,,,,,,,,,,,,,60,234
+,,,,,,,,,,,,,,,,,,,,,,174,78.2
+,,,,,,,,,,,,,,,,,,,,,,77,37.5
+,,,,,,,,,,,,,,,,,,,,,,165,182
+,,,,,,,,,,,,,,,,,,,,,,467,31
+,,,,,,,,,,,,,,,,,,,,,,283,25.8
+,,,,,,,,,,,,,,,,,,,,,,167,42
+,,,,,,,,,,,,,,,,,,,,,,9,17.9
+,,,,,,,,,,,,,,,,,,,,,,0,13.9
+,,,,,,,,,,,,,,,,,,,,,,68,0
+,,,,,,,,,,,,,,,,,,,,,,286,31.9
+,,,,,,,,,,,,,,,,,,,,,,46,508
+,,,,,,,,,,,,,,,,,,,,,,292,4189
+,,,,,,,,,,,,,,,,,,,,,,346,33.2
+,,,,,,,,,,,,,,,,,,,,,,192,38.1
+,,,,,,,,,,,,,,,,,,,,,,55,127
+,,,,,,,,,,,,,,,,,,,,,,190,49.3
+,,,,,,,,,,,,,,,,,,,,,,66,259
+,,,,,,,,,,,,,,,,,,,,,,8,39
+,,,,,,,,,,,,,,,,,,,,,,32,26.7
+,,,,,,,,,,,,,,,,,,,,,,33,779
+,,,,,,,,,,,,,,,,,,,,,,4,23.6
+,,,,,,,,,,,,,,,,,,,,,,105,65
+,,,,,,,,,,,,,,,,,,,,,,38,20.2
+,,,,,,,,,,,,,,,,,,,,,,2,44.4
+,,,,,,,,,,,,,,,,,,,,,,80,96
+,,,,,,,,,,,,,,,,,,,,,,8,7.9
+,,,,,,,,,,,,,,,,,,,,,,14,25
+,,,,,,,,,,,,,,,,,,,,,,23,103
+,,,,,,,,,,,,,,,,,,,,,,10,32.6
+,,,,,,,,,,,,,,,,,,,,,,41,91
+,,,,,,,,,,,,,,,,,,,,,,40,20.2
+,,,,,,,,,,,,,,,,,,,,,,134,16.8
+,,,,,,,,,,,,,,,,,,,,,,8,35
+,,,,,,,,,,,,,,,,,,,,,,79,14.7
+,,,,,,,,,,,,,,,,,,,,,,46,119
+,,,,,,,,,,,,,,,,,,,,,,87,13.6
+,,,,,,,,,,,,,,,,,,,,,,108,28
+,,,,,,,,,,,,,,,,,,,,,,192,36
+,,,,,,,,,,,,,,,,,,,,,,78,20.7
+,,,,,,,,,,,,,,,,,,,,,,47,
+,,,,,,,,,,,,,,,,,,,,,,63,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,193,
+,,,,,,,,,,,,,,,,,,,,,,211,
+,,,,,,,,,,,,,,,,,,,,,,156,
+,,,,,,,,,,,,,,,,,,,,,,92,
+,,,,,,,,,,,,,,,,,,,,,,313,
+,,,,,,,,,,,,,,,,,,,,,,64,
+,,,,,,,,,,,,,,,,,,,,,,154,
+,,,,,,,,,,,,,,,,,,,,,,231,
+,,,,,,,,,,,,,,,,,,,,,,24,
+,,,,,,,,,,,,,,,,,,,,,,129,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,141,
+,,,,,,,,,,,,,,,,,,,,,,881,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,958,
+,,,,,,,,,,,,,,,,,,,,,,164,
+,,,,,,,,,,,,,,,,,,,,,,45,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,32,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,83,
+,,,,,,,,,,,,,,,,,,,,,,83,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,102,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,81,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,31,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,40,
+,,,,,,,,,,,,,,,,,,,,,,19,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,39,
+,,,,,,,,,,,,,,,,,,,,,,49,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,76,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,39,
+,,,,,,,,,,,,,,,,,,,,,,49,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,29,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,20,
+,,,,,,,,,,,,,,,,,,,,,,102,
+,,,,,,,,,,,,,,,,,,,,,,69,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,215,
+,,,,,,,,,,,,,,,,,,,,,,156,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,221,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,246,
+,,,,,,,,,,,,,,,,,,,,,,151,
+,,,,,,,,,,,,,,,,,,,,,,72,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,192,
+,,,,,,,,,,,,,,,,,,,,,,119,
+,,,,,,,,,,,,,,,,,,,,,,331,
+,,,,,,,,,,,,,,,,,,,,,,273,
+,,,,,,,,,,,,,,,,,,,,,,85,
+,,,,,,,,,,,,,,,,,,,,,,66,
+,,,,,,,,,,,,,,,,,,,,,,187,
+,,,,,,,,,,,,,,,,,,,,,,79,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,138,
+,,,,,,,,,,,,,,,,,,,,,,123,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,29,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,433,
+,,,,,,,,,,,,,,,,,,,,,,41,
+,,,,,,,,,,,,,,,,,,,,,,456,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,348,
+,,,,,,,,,,,,,,,,,,,,,,32,
+,,,,,,,,,,,,,,,,,,,,,,31,
+,,,,,,,,,,,,,,,,,,,,,,123,
+,,,,,,,,,,,,,,,,,,,,,,39,
+,,,,,,,,,,,,,,,,,,,,,,19,
+,,,,,,,,,,,,,,,,,,,,,,65,
+,,,,,,,,,,,,,,,,,,,,,,67,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,226,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,111,
+,,,,,,,,,,,,,,,,,,,,,,378,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,488,
+,,,,,,,,,,,,,,,,,,,,,,124,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,63,
+,,,,,,,,,,,,,,,,,,,,,,74,
+,,,,,,,,,,,,,,,,,,,,,,282,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,33,
+,,,,,,,,,,,,,,,,,,,,,,22,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,38,
+,,,,,,,,,,,,,,,,,,,,,,85,
+,,,,,,,,,,,,,,,,,,,,,,162,
+,,,,,,,,,,,,,,,,,,,,,,111,
+,,,,,,,,,,,,,,,,,,,,,,89,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,51,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,22,
+,,,,,,,,,,,,,,,,,,,,,,125,
+,,,,,,,,,,,,,,,,,,,,,,65,
+,,,,,,,,,,,,,,,,,,,,,,56,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,125,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,17,
+,,,,,,,,,,,,,,,,,,,,,,19,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,32,
+,,,,,,,,,,,,,,,,,,,,,,29,
+,,,,,,,,,,,,,,,,,,,,,,92,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,13,
+,,,,,,,,,,,,,,,,,,,,,,190,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,163,
+,,,,,,,,,,,,,,,,,,,,,,223,
+,,,,,,,,,,,,,,,,,,,,,,100,
+,,,,,,,,,,,,,,,,,,,,,,53,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,246,
+,,,,,,,,,,,,,,,,,,,,,,350,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,96,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,125,
+,,,,,,,,,,,,,,,,,,,,,,58,
+,,,,,,,,,,,,,,,,,,,,,,134,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,126,
+,,,,,,,,,,,,,,,,,,,,,,26,
+,,,,,,,,,,,,,,,,,,,,,,99,
+,,,,,,,,,,,,,,,,,,,,,,82,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,87,
+,,,,,,,,,,,,,,,,,,,,,,297,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,98,
+,,,,,,,,,,,,,,,,,,,,,,195,
+,,,,,,,,,,,,,,,,,,,,,,80,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,79,
+,,,,,,,,,,,,,,,,,,,,,,91,
+,,,,,,,,,,,,,,,,,,,,,,132,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,271,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,161,
+,,,,,,,,,,,,,,,,,,,,,,12,
+,,,,,,,,,,,,,,,,,,,,,,1020,
+,,,,,,,,,,,,,,,,,,,,,,16,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,33,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,257,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,67,
+,,,,,,,,,,,,,,,,,,,,,,131,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,30,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,86,
+,,,,,,,,,,,,,,,,,,,,,,71,
+,,,,,,,,,,,,,,,,,,,,,,26,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,169,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,403,
+,,,,,,,,,,,,,,,,,,,,,,77,
+,,,,,,,,,,,,,,,,,,,,,,179,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,133,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,74,
+,,,,,,,,,,,,,,,,,,,,,,17,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,93,
+,,,,,,,,,,,,,,,,,,,,,,26,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,22,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,126,
+,,,,,,,,,,,,,,,,,,,,,,162,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,53,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,669,
+,,,,,,,,,,,,,,,,,,,,,,19,
+,,,,,,,,,,,,,,,,,,,,,,258,
+,,,,,,,,,,,,,,,,,,,,,,121,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,123,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,57,
+,,,,,,,,,,,,,,,,,,,,,,132,
+,,,,,,,,,,,,,,,,,,,,,,110,
+,,,,,,,,,,,,,,,,,,,,,,164,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,324,
+,,,,,,,,,,,,,,,,,,,,,,54,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,17,
+,,,,,,,,,,,,,,,,,,,,,,96,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,168,
+,,,,,,,,,,,,,,,,,,,,,,234,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,214,
+,,,,,,,,,,,,,,,,,,,,,,442,
+,,,,,,,,,,,,,,,,,,,,,,22,
+,,,,,,,,,,,,,,,,,,,,,,98,
+,,,,,,,,,,,,,,,,,,,,,,208,
+,,,,,,,,,,,,,,,,,,,,,,30,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,104,
+,,,,,,,,,,,,,,,,,,,,,,184,
+,,,,,,,,,,,,,,,,,,,,,,676,
+,,,,,,,,,,,,,,,,,,,,,,139,
+,,,,,,,,,,,,,,,,,,,,,,544,
+,,,,,,,,,,,,,,,,,,,,,,66,
+,,,,,,,,,,,,,,,,,,,,,,30,
+,,,,,,,,,,,,,,,,,,,,,,512,
+,,,,,,,,,,,,,,,,,,,,,,55,
+,,,,,,,,,,,,,,,,,,,,,,478,
+,,,,,,,,,,,,,,,,,,,,,,398,
+,,,,,,,,,,,,,,,,,,,,,,20,
+,,,,,,,,,,,,,,,,,,,,,,31,
+,,,,,,,,,,,,,,,,,,,,,,119,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,799,
+,,,,,,,,,,,,,,,,,,,,,,37,
+,,,,,,,,,,,,,,,,,,,,,,99,
+,,,,,,,,,,,,,,,,,,,,,,132,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,71,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,114,
+,,,,,,,,,,,,,,,,,,,,,,62,
+,,,,,,,,,,,,,,,,,,,,,,20,
+,,,,,,,,,,,,,,,,,,,,,,68,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,88,
+,,,,,,,,,,,,,,,,,,,,,,88,
+,,,,,,,,,,,,,,,,,,,,,,54,
+,,,,,,,,,,,,,,,,,,,,,,39,
+,,,,,,,,,,,,,,,,,,,,,,1014,
+,,,,,,,,,,,,,,,,,,,,,,146,
+,,,,,,,,,,,,,,,,,,,,,,837,
+,,,,,,,,,,,,,,,,,,,,,,130,
+,,,,,,,,,,,,,,,,,,,,,,113,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,140,
+,,,,,,,,,,,,,,,,,,,,,,162,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,81,
+,,,,,,,,,,,,,,,,,,,,,,30,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,95,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,13,
+,,,,,,,,,,,,,,,,,,,,,,85,
+,,,,,,,,,,,,,,,,,,,,,,76,
+,,,,,,,,,,,,,,,,,,,,,,136,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,105,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,98,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,60,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,81,
+,,,,,,,,,,,,,,,,,,,,,,903,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,1185,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,1119,
+,,,,,,,,,,,,,,,,,,,,,,121,
+,,,,,,,,,,,,,,,,,,,,,,75,
+,,,,,,,,,,,,,,,,,,,,,,198,
+,,,,,,,,,,,,,,,,,,,,,,122,
+,,,,,,,,,,,,,,,,,,,,,,80,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,124,
+,,,,,,,,,,,,,,,,,,,,,,38,
+,,,,,,,,,,,,,,,,,,,,,,13,
+,,,,,,,,,,,,,,,,,,,,,,97,
+,,,,,,,,,,,,,,,,,,,,,,29,
+,,,,,,,,,,,,,,,,,,,,,,12,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,70,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,32,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,222,
+,,,,,,,,,,,,,,,,,,,,,,61,
+,,,,,,,,,,,,,,,,,,,,,,142,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,166,
+,,,,,,,,,,,,,,,,,,,,,,41,
+,,,,,,,,,,,,,,,,,,,,,,80,
+,,,,,,,,,,,,,,,,,,,,,,88,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,223,
+,,,,,,,,,,,,,,,,,,,,,,138,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,43,
+,,,,,,,,,,,,,,,,,,,,,,58,
+,,,,,,,,,,,,,,,,,,,,,,123,
+,,,,,,,,,,,,,,,,,,,,,,76,
+,,,,,,,,,,,,,,,,,,,,,,173,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,191,
+,,,,,,,,,,,,,,,,,,,,,,131,
+,,,,,,,,,,,,,,,,,,,,,,219,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,108,
+,,,,,,,,,,,,,,,,,,,,,,47,
+,,,,,,,,,,,,,,,,,,,,,,33,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,31,
+,,,,,,,,,,,,,,,,,,,,,,103,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,33,
+,,,,,,,,,,,,,,,,,,,,,,49,
+,,,,,,,,,,,,,,,,,,,,,,70,
+,,,,,,,,,,,,,,,,,,,,,,173,
+,,,,,,,,,,,,,,,,,,,,,,102,
+,,,,,,,,,,,,,,,,,,,,,,169,
+,,,,,,,,,,,,,,,,,,,,,,190,
+,,,,,,,,,,,,,,,,,,,,,,17,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,25,
+,,,,,,,,,,,,,,,,,,,,,,20,
+,,,,,,,,,,,,,,,,,,,,,,106,
+,,,,,,,,,,,,,,,,,,,,,,179,
+,,,,,,,,,,,,,,,,,,,,,,179,
+,,,,,,,,,,,,,,,,,,,,,,40,
+,,,,,,,,,,,,,,,,,,,,,,69,
+,,,,,,,,,,,,,,,,,,,,,,24,
+,,,,,,,,,,,,,,,,,,,,,,82,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,116,
+,,,,,,,,,,,,,,,,,,,,,,124,
+,,,,,,,,,,,,,,,,,,,,,,22,
+,,,,,,,,,,,,,,,,,,,,,,69,
+,,,,,,,,,,,,,,,,,,,,,,164,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,134,
+,,,,,,,,,,,,,,,,,,,,,,96,
+,,,,,,,,,,,,,,,,,,,,,,189,
+,,,,,,,,,,,,,,,,,,,,,,117,
+,,,,,,,,,,,,,,,,,,,,,,157,
+,,,,,,,,,,,,,,,,,,,,,,225,
+,,,,,,,,,,,,,,,,,,,,,,79,
+,,,,,,,,,,,,,,,,,,,,,,354,
+,,,,,,,,,,,,,,,,,,,,,,225,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,638,
+,,,,,,,,,,,,,,,,,,,,,,72,
+,,,,,,,,,,,,,,,,,,,,,,162,
+,,,,,,,,,,,,,,,,,,,,,,162,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,429,
+,,,,,,,,,,,,,,,,,,,,,,50,
+,,,,,,,,,,,,,,,,,,,,,,168,
+,,,,,,,,,,,,,,,,,,,,,,32,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,252,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,234,
+,,,,,,,,,,,,,,,,,,,,,,185,
+,,,,,,,,,,,,,,,,,,,,,,55,
+,,,,,,,,,,,,,,,,,,,,,,122,
+,,,,,,,,,,,,,,,,,,,,,,329,
+,,,,,,,,,,,,,,,,,,,,,,64,
+,,,,,,,,,,,,,,,,,,,,,,727,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,66,
+,,,,,,,,,,,,,,,,,,,,,,184,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,54,
+,,,,,,,,,,,,,,,,,,,,,,98,
+,,,,,,,,,,,,,,,,,,,,,,64,
+,,,,,,,,,,,,,,,,,,,,,,64,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,24,
+,,,,,,,,,,,,,,,,,,,,,,23,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,77,
+,,,,,,,,,,,,,,,,,,,,,,46,
+,,,,,,,,,,,,,,,,,,,,,,43,
+,,,,,,,,,,,,,,,,,,,,,,234,
+,,,,,,,,,,,,,,,,,,,,,,74,
+,,,,,,,,,,,,,,,,,,,,,,56,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,332,
+,,,,,,,,,,,,,,,,,,,,,,54,
+,,,,,,,,,,,,,,,,,,,,,,12,
+,,,,,,,,,,,,,,,,,,,,,,382,
+,,,,,,,,,,,,,,,,,,,,,,123,
+,,,,,,,,,,,,,,,,,,,,,,78,
+,,,,,,,,,,,,,,,,,,,,,,91,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,122,
+,,,,,,,,,,,,,,,,,,,,,,90,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,169,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,267,
+,,,,,,,,,,,,,,,,,,,,,,263,
+,,,,,,,,,,,,,,,,,,,,,,10,
+,,,,,,,,,,,,,,,,,,,,,,296,
+,,,,,,,,,,,,,,,,,,,,,,269,
+,,,,,,,,,,,,,,,,,,,,,,195,
+,,,,,,,,,,,,,,,,,,,,,,324,
+,,,,,,,,,,,,,,,,,,,,,,312,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,229,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,82,
+,,,,,,,,,,,,,,,,,,,,,,30,
+,,,,,,,,,,,,,,,,,,,,,,46,
+,,,,,,,,,,,,,,,,,,,,,,132,
+,,,,,,,,,,,,,,,,,,,,,,94,
+,,,,,,,,,,,,,,,,,,,,,,153,
+,,,,,,,,,,,,,,,,,,,,,,100,
+,,,,,,,,,,,,,,,,,,,,,,113,
+,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,5,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,0,
+,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,9,
+,,,,,,,,,,,,,,,,,,,,,,6,
+,,,,,,,,,,,,,,,,,,,,,,607,
+,,,,,,,,,,,,,,,,,,,,,,366,
+,,,,,,,,,,,,,,,,,,,,,,522,
+,,,,,,,,,,,,,,,,,,,,,,445,
+,,,,,,,,,,,,,,,,,,,,,,206,
+,,,,,,,,,,,,,,,,,,,,,,256,
+,,,,,,,,,,,,,,,,,,,,,,451,
+,,,,,,,,,,,,,,,,,,,,,,37,
+,,,,,,,,,,,,,,,,,,,,,,28,
+,,,,,,,,,,,,,,,,,,,,,,4,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,24,
+,,,,,,,,,,,,,,,,,,,,,,70,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,189,
+,,,,,,,,,,,,,,,,,,,,,,44,
+,,,,,,,,,,,,,,,,,,,,,,116,
+,,,,,,,,,,,,,,,,,,,,,,130,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,217,
+,,,,,,,,,,,,,,,,,,,,,,137,
+,,,,,,,,,,,,,,,,,,,,,,164,
+,,,,,,,,,,,,,,,,,,,,,,98,
+,,,,,,,,,,,,,,,,,,,,,,422,
+,,,,,,,,,,,,,,,,,,,,,,83,
+,,,,,,,,,,,,,,,,,,,,,,675,
+,,,,,,,,,,,,,,,,,,,,,,16,
+,,,,,,,,,,,,,,,,,,,,,,240,
+,,,,,,,,,,,,,,,,,,,,,,104,
+,,,,,,,,,,,,,,,,,,,,,,376,
+,,,,,,,,,,,,,,,,,,,,,,598,
+,,,,,,,,,,,,,,,,,,,,,,149,
+,,,,,,,,,,,,,,,,,,,,,,14,
+,,,,,,,,,,,,,,,,,,,,,,39,
+,,,,,,,,,,,,,,,,,,,,,,86,
+,,,,,,,,,,,,,,,,,,,,,,174,
+,,,,,,,,,,,,,,,,,,,,,,46,
+,,,,,,,,,,,,,,,,,,,,,,26,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,62,
+,,,,,,,,,,,,,,,,,,,,,,36,
+,,,,,,,,,,,,,,,,,,,,,,169,
+,,,,,,,,,,,,,,,,,,,,,,87,
+,,,,,,,,,,,,,,,,,,,,,,135,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,394,
+,,,,,,,,,,,,,,,,,,,,,,27,
+,,,,,,,,,,,,,,,,,,,,,,21,
+,,,,,,,,,,,,,,,,,,,,,,15,
+,,,,,,,,,,,,,,,,,,,,,,80,
+,,,,,,,,,,,,,,,,,,,,,,8,
+,,,,,,,,,,,,,,,,,,,,,,84,
+,,,,,,,,,,,,,,,,,,,,,,101,
+,,,,,,,,,,,,,,,,,,,,,,62,
+,,,,,,,,,,,,,,,,,,,,,,55,
+,,,,,,,,,,,,,,,,,,,,,,38,
+,,,,,,,,,,,,,,,,,,,,,,193,
+,,,,,,,,,,,,,,,,,,,,,,277,
+,,,,,,,,,,,,,,,,,,,,,,19,
+,,,,,,,,,,,,,,,,,,,,,,163,
+,,,,,,,,,,,,,,,,,,,,,,113,
+,,,,,,,,,,,,,,,,,,,,,,621,
+,,,,,,,,,,,,,,,,,,,,,,326,
+,,,,,,,,,,,,,,,,,,,,,,397,
+,,,,,,,,,,,,,,,,,,,,,,301,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,348,
+,,,,,,,,,,,,,,,,,,,,,,212,
+,,,,,,,,,,,,,,,,,,,,,,441,
+,,,,,,,,,,,,,,,,,,,,,,1185,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,18,
+,,,,,,,,,,,,,,,,,,,,,,52,
+,,,,,,,,,,,,,,,,,,,,,,7,
+,,,,,,,,,,,,,,,,,,,,,,14,
+,,,,,,,,,,,,,,,,,,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,109,
+,,,,,,,,,,,,,,,,,,,,,,145,
+,,,,,,,,,,,,,,,,,,,,,,35,
+,,,,,,,,,,,,,,,,,,,,,,13,
